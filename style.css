@@ -1,0 +1,118 @@
+
+/* Global */
+
+/*
+       Background:#D3D3D3
+       Primary text: black
+       Primary color:#008b8b
+       Primary color text: white
+       Acent color: #b8860b
+       Accent color text: black
+
+ */
+/* set font and background color */
+
+*{
+    font-family: Roboto, Helvetica, sans-serif;
+    background-color: rgba(211, 211, 211, 0.671);
+}
+
+
+/* App bar*/
+/* set color of the app header*/
+.menue {
+    background-color: #008b8b;
+    color: white;
+    font-size: xx-large;
+   
+       }
+
+.tab-button {
+    background-color: white;
+    border-style: none;
+    font-size: 13px;
+    height: 72px;
+    width: 33%;
+    padding: 16px;
+}
+
+img {
+    margin: auto;
+}
+
+/* Channels list */
+
+/* set background color of the topics */
+.hashtags {
+    background-color: white;
+    padding: 16px;
+    font-size: 16px;
+    
+    }
+
+/* Tab bar */
+/* set colors of buttons and transform text to uppercase*/
+button {
+    background-color: #b8860b;
+    color: black;
+    text-transform: uppercase;
+    
+}
+
+/* Messages*/
+
+/* set width of message container */
+
+
+.message {
+
+    width: 80%;
+    margin-bottom: 8px;
+    font-size:medium;
+    background-color: white;
+    padding: 16px;
+    font-size: larger;
+    font-style: normal;
+    align-content: left;
+    margin-left: 0em;
+}    
+
+#mine {
+
+margin-left:7em;
+}
+.time-button {
+    background-color: #CDDC39;
+    color: black;
+    text-transform: uppercase; 
+
+}
+
+.message a {
+    text-transform: uppercase; 
+    color: black; 
+}
+
+/* change size and font-family of the left time*/
+.lefttime {
+    font-size: larger;
+    font-family: non-italic;   
+}
+
+/* set size and color of message text */
+.chat {
+    background-color: white ;
+    font-size: large;
+    font: bold;
+    font-size: medium;
+    }
+
+
+
+
+
+
+
+
+
+
